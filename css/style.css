@@ -1,0 +1,81 @@
+/* comentarios en css*/
+
+/* ETIQUETAS */
+
+header {
+    background-color: rgb(238, 21, 75);
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Bruno Ace', cursive;
+
+}
+
+/* CLASE */
+.colorTitulo1 {
+    color: blue;
+    font-weight: bold
+    
+}
+
+.colorTitulo4 {
+    color: rgb(5, 244, 13);
+    font-weight: bold
+}
+
+.caja3 {
+background-image: url(../img/favicon.png);
+background-repeat: 3;
+}
+
+
+/* ID */
+#texto {
+    color: blueviolet;
+}
+
+/* Padres e hijos */
+header nav {
+    background-color: pink;
+    font-size: 75%;
+    text-align: left;
+}
+
+header nav ul {
+    list-style-type: upper-roman;
+    color: red
+}
+header {
+    background-color: green;
+}
+
+p1 {
+    line-height: 1.5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line line-height: 2;
+ }
+ .fondoFuerte1{background-color: yellow;}
+ 
+
+p2 {
+    line-height: 3;
+    font-family: 'Sedgwick Ave Display', cursive;
+    line line-height: 2;
+
+}
+p3 {
+    line-height: 1.5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line line-height: 0.5;
+    font-weight: bold;
+    background-color-gradient: black
+
+
+
+}
+p4 {
+    line-height: 1.5;
+    font-family: 'Rubik Pixels', cursive;
+    line line-height: 2;
+
+}
+
